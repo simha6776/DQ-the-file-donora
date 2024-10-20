@@ -206,12 +206,11 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 How to view :  <a href="https://t.me/+Iz-NzpttvJ4zNjE1">Tᴏᴜᴄʜ</a>
+🔅 Thanks For Using Our Service :  <a href="https://t.me/+I6rtpU3tk6Y1ZTQ1">Tᴏᴜᴄʜ</a> 🔅
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
 ▫️ ᴄʜᴀɴɴᴇʟ : https://t.me/+fodQhTZpYbMzNTVl
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : https://t.me/+I6rtpU3tk6Y1ZTQ1
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
